@@ -1,0 +1,1 @@
+docker run -p 30000:30000 --detach --privileged --hostname foundryvtt --name foundryvtt -v C:\Projects\foundry-chirp\docker\foundrydata:/opt/foundrydata foundryvtt:latest

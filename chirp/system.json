@@ -1,0 +1,26 @@
+{
+  "name": "CHIRP",
+  "title": "CHIRP for FoundryVTT",
+  "description": "CHIRP - Classless Hitless Interchangeable Role Playing",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.6.5",
+  "templateVersion": 2,
+  "author": "TPKill",
+  "esmodules": [
+    "module/chirp.js"
+  ],
+  "styles": [
+    "styles/chirp.css"
+  ],
+  "packs": [],
+  "languages": [],
+  "gridDistance": 1,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "",
+  "secondaryTokenAttribute": "",
+  "url": "https://github.com/TPKill/foundry-chirp",
+  "manifest": "https://github.com/TPKill/foundry-chirp/raw/master/system.json",
+  "download": "",
+  "license": "LICENSE.txt"
+}
